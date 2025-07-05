@@ -9,7 +9,8 @@
 ![Hibernate](https://img.shields.io/badge/Hibernate-JPA-yellreen)
 ![API](https://img.shields.io/badge/API-OpenWeatherMap-orange)
 
-![Logo]()
+![Logo](https://github.com/user-attachments/assets/5631c324-db86-4cc5-8f6b-25deadb1e97d)
+
 
 ## Table of Contents
 
@@ -90,7 +91,7 @@ Install Project Into Your Device
 
 
      
- ![Home Page]()
+ ![Home Page](https://github.com/user-attachments/assets/34e23483-4b2c-49f5-a3f8-c7ed24a1e05b)
     
 
 
@@ -111,7 +112,7 @@ Install Project Into Your Device
 
 
 
-![App Screenshot]()
+![App Screenshot](https://github.com/user-attachments/assets/7050c543-d978-430f-a7d8-6d67dc34f0b0)
 
 
 
