@@ -15,7 +15,7 @@ import org.springframework.format.annotation.DateTimeFormat;
 public class enquiry_Entity {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.AUTO)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
     int id;
 	
 	private String fproduct;
